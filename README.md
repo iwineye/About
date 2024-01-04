@@ -10,7 +10,7 @@ Passionate about stories the data holds
 
 * 🌍  I'm based in india
 * 🧠  I'm learning business analytics
-* 🤝  I'm open to collaborating on data analystics
+* 🤝  I'm open to collaborating on data analytics and machine learning  projects.
 
 ### Skills
 
